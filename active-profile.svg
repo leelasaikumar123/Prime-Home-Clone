@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24" role="img" aria-label="Active profile">
+  <title>Active profile</title>
+  <!-- circular background -->
+  <circle cx="12" cy="12" r="10" fill="#E0F2FE"/>
+  <!-- person silhouette -->
+  <path d="M12 12.5c1.93 0 3.5-1.57 3.5-3.5S13.93 5.5 12 5.5 8.5 7.07 8.5 9s1.57 3.5 3.5 3.5z" fill="#0EA5E9"/>
+  <path d="M6.5 18.2c0-1.99 2.98-3.7 5.5-3.7s5.5 1.71 5.5 3.7V19H6.5v-.8z" fill="#38BDF8"/>
+  <!-- active indicator -->
+  <circle cx="18" cy="6" r="3" fill="#22C55E" stroke="white" stroke-width="1"/>
+</svg>
